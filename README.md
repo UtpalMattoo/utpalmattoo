@@ -1,5 +1,12 @@
 ## Hi there 👋
 
+My name is Utpal, experienced in: Engineering (except front-end development), Consulting (implementation and customer success) and Analytics.
+What does my GitHub have: SQL and Python code portfolio, Generating documentation from existing code on SDK's using LLM's, Project work in NLP, Notebooks to understand Transformers (Encoder-Decoder) 
+
+- 👯 I’m looking to collaborate on open source projects in NLP, Data Engineering, LLM/AI/Technical Operations, building proofs-of-concept from idea to presentation
+- 🌱 I’m also currently learning setting up SDK's using AI in VS Code, GitHub, and Cloud Technologies
+
+ 
 <!--
 **UtpalMattoo/utpalmattoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
