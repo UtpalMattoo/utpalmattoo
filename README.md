@@ -2,7 +2,7 @@
 
 My name is Utpal, with professional work experience in: Engineering (except front-end development), Consulting (implementation and customer success) and Analytics.
 
-- 👯 I’m looking to collaborate on all things NLP, Data Engineering, LLM/AI/Technical Operations, building proofs-of-concept
+- 👯 I’m looking to collaborate on all things NLP, Data Science and Engineering, LLM/AI/Technical Operations, building proofs-of-concept
 
 
 This GitHub profile has work I did outside of my day job.
